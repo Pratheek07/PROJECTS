@@ -183,6 +183,4 @@ nav{
     padding: 2px;
     border-bottom: solid white;
 }
-tr:hover {
-    background-color:rgb(117, 117, 128);
-}
+tr:hover {background-color:rgb(117, 117, 128);}
